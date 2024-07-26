@@ -22,7 +22,7 @@ Thumbs.db
 
 # Ignore dependency directories
 vendor/
-public/
+#public/
 
 # Ignore JavaScript compiled files
 *.min.js
