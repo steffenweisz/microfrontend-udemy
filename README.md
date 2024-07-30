@@ -28,7 +28,7 @@ Open http://localhost:8081/
 
 As a result you should see in Browser the output:
 
-````
+```
 Sleek Cotton Chicken
 Tasty Metal Cheese
 Unbranded Granite Gloves
@@ -40,4 +40,3 @@ Small Rubber Cheese
 Intelligent Rubber Bacon
 Incredible Rubber Pants
 ```
-````
